@@ -1,0 +1,19 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="ProjectModuleManager">
+    <modules>
+      <module fileurl="file://$PROJECT_DIR$/Alturas/Alturas.iml" filepath="$PROJECT_DIR$/Alturas/Alturas.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Banco/Banco.iml" filepath="$PROJECT_DIR$/Banco/Banco.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProblemasArray/ProblemasArray.iml" filepath="$PROJECT_DIR$/ProblemasArray/ProblemasArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProductJavaEstoque/ProductJavaEstoque.iml" filepath="$PROJECT_DIR$/ProductJavaEstoque/ProductJavaEstoque.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ProdutosArray/ProdutosArray.iml" filepath="$PROJECT_DIR$/ProdutosArray/ProdutosArray.iml" />
+      <module fileurl="file://$PROJECT_DIR$/.idea/ProjetosJava.iml" filepath="$PROJECT_DIR$/.idea/ProjetosJava.iml" />
+      <module fileurl="file://$PROJECT_DIR$/Triangulo/Triangulo.iml" filepath="$PROJECT_DIR$/Triangulo/Triangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex003NotaAluno/ex003NotaAluno.iml" filepath="$PROJECT_DIR$/ex003NotaAluno/ex003NotaAluno.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex004CurrencyConverter/ex004CurrencyConverter.iml" filepath="$PROJECT_DIR$/ex004CurrencyConverter/ex004CurrencyConverter.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex01Retangulo/ex01Retangulo.iml" filepath="$PROJECT_DIR$/ex01Retangulo/ex01Retangulo.iml" />
+      <module fileurl="file://$PROJECT_DIR$/ex02Funcionario/ex02Funcionario.iml" filepath="$PROJECT_DIR$/ex02Funcionario/ex02Funcionario.iml" />
+      <module fileurl="file://$PROJECT_DIR$/hotel/hotel.iml" filepath="$PROJECT_DIR$/hotel/hotel.iml" />
+    </modules>
+  </component>
+</project>
