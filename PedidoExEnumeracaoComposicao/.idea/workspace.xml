@@ -1,0 +1,157 @@
+<?xml version="1.0" encoding="UTF-8"?>
+<project version="4">
+  <component name="AutoImportSettings">
+    <option name="autoReloadType" value="SELECTIVE" />
+  </component>
+  <component name="ChangeListManager">
+    <list default="true" id="ca0b09f1-a99c-4de2-9155-e8c95f5a723e" name="Changes" comment="">
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/CalculoComDataHora.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../CalculoComDataHora/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/ConvertendoData-Texto.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ConvertendoData-Texto/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/Estudo de Lista.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../Estudo de Lista/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreData" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/EstudoSobreEnum.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/src/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../EstudoSobreEnum/src/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/ExFixacaoMetodosAbistratos.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/src/Company.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/src/Individual.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoMetodosAbistratos/src/TaxPayer.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/ExFixacaoPolimorfismo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/src/ImportedProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExFixacaoPolimorfismo/src/UsedProduct.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/src/Circle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/src/Color.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/src/Rectangle.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExMetodosAbstratos/src/Shape.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/ExResolvidoPolomorfismo.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/src/Employee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ExResolvidoPolomorfismo/src/OutsourcedEmployee.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/HerancaAccount.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/src/Account.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/src/BusinessAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../HerancaAccount/src/SavingsAccount.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/PedidoExEnumeracaoComposicao.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Client.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Order.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderItem.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/OrderStatus.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/src/Product.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemasArray/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemasArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemasArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemasArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemasArray/ProblemasArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProblemasArray/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProductJavaEstoque" beforeDir="false" afterPath="$PROJECT_DIR$/../ProductJavaEstoque" afterDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/.idea/.gitignore" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/.idea/misc.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/.idea/modules.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/.idea/vcs.xml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/ProdutosArray.iml" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/src/Main.java" beforeDir="false" />
+      <change beforePath="$PROJECT_DIR$/../ProdutosArray/src/Product.java" beforeDir="false" />
+    </list>
+    <option name="SHOW_DIALOG" value="false" />
+    <option name="HIGHLIGHT_CONFLICTS" value="true" />
+    <option name="HIGHLIGHT_NON_ACTIVE_CHANGELIST" value="false" />
+    <option name="LAST_RESOLUTION" value="IGNORE" />
+  </component>
+  <component name="FileTemplateManagerImpl">
+    <option name="RECENT_TEMPLATES">
+      <list>
+        <option value="Enum" />
+        <option value="Class" />
+      </list>
+    </option>
+  </component>
+  <component name="Git.Settings">
+    <option name="RECENT_GIT_ROOT_PATH" value="$PROJECT_DIR$/.." />
+  </component>
+  <component name="ProjectColorInfo">{
+  &quot;associatedIndex&quot;: 5
+}</component>
+  <component name="ProjectId" id="2w65iXezOddPeQ9vCHRaWUHIGFM" />
+  <component name="ProjectViewState">
+    <option name="hideEmptyMiddlePackages" value="true" />
+    <option name="showLibraryContents" value="true" />
+  </component>
+  <component name="PropertiesComponent">{
+  &quot;keyToString&quot;: {
+    &quot;RunOnceActivity.ShowReadmeOnStart&quot;: &quot;true&quot;,
+    &quot;RunOnceActivity.git.unshallow&quot;: &quot;true&quot;,
+    &quot;git-widget-placeholder&quot;: &quot;main&quot;,
+    &quot;kotlin-language-version-configured&quot;: &quot;true&quot;,
+    &quot;last_opened_file_path&quot;: &quot;C:/Users/ghpra/Documents/ProjetosJava/PedidoExEnumeracaoComposicao&quot;
+  }
+}</component>
+  <component name="SpellCheckerSettings" RuntimeDictionaries="0" Folders="0" CustomDictionaries="0" DefaultDictionary="application-level" UseSingleDictionary="true" transferred="true" />
+  <component name="TaskManager">
+    <task active="true" id="Default" summary="Default task">
+      <changelist id="ca0b09f1-a99c-4de2-9155-e8c95f5a723e" name="Changes" comment="" />
+      <created>1745349313318</created>
+      <option name="number" value="Default" />
+      <option name="presentableId" value="Default" />
+      <updated>1745349313318</updated>
+    </task>
+    <servers />
+  </component>
+</project>
